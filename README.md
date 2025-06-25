@@ -1,7 +1,8 @@
 # gitTest00
 
+<<<<<<< HEAD
 master00
 master01
-
-
-dev edit
+=======
+test00
+>>>>>>> aca0c78... 서브01
